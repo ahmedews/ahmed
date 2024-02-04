@@ -13,3 +13,6 @@ speedtest-cli
 httpx[http2]
 pyrogram
 user_agent
+certifi
+telebot
+asyncio
